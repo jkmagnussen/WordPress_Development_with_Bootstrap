@@ -24,7 +24,7 @@
     });
   }
 
-  // mobile nav hide / show
+  // mobile nav hide / showw
   if ($(".mobile-menu").length) {
     var mobileMenuContent = $("#top-navigation .navigation").html();
 
