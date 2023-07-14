@@ -16,7 +16,7 @@
       }
     );
 
-    // Disable dropdown parent link
+    // Disable dropdown parent link - 
     $(
       ".main-menu .navigation li.menu-item-has-children > a, .hidden-bar .side-menu li.menu-item-has-children > a"
     ).on("click", function () {
