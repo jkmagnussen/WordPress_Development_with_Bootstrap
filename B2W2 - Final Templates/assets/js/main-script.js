@@ -8,7 +8,7 @@
       '<div class="dropdown-btn"><i class="flaticon flaticon-arrow-down-sign-to-navigate"></i></div>'
     );
 
-    // Dropdown Button
+    // Dropdown Button - 
     $(".main-menu li.menu-item-has-children .dropdown-btn").on(
       "click",
       function () {
