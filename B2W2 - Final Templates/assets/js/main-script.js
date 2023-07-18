@@ -36,7 +36,7 @@
       $("body").removeClass("mobile-menu-visible");
     });
 
-    // Dropdown Button
+    // Dropdown Button - 
     $(".mobile-menu li.menu-item-has-children .dropdown-btn").on(
       "click",
       function () {
