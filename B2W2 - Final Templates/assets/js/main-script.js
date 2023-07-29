@@ -49,7 +49,7 @@
       $("body").addClass("mobile-menu-visible");
     });
 
-    // Menu Toggle button
+    // Menu Toggle button - 
     $(".mobile-menu .menu-backdrop, .mobile-menu .close-btn").on(
       "click",
       function () {
