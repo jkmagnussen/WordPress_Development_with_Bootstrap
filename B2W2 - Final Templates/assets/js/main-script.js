@@ -44,7 +44,7 @@
       }
     );
 
-    // Menu Toggle button - 
+    // Menu Toggle button --
     $(".mobile-nav-toggler").on("click", function () {
       $("body").addClass("mobile-menu-visible");
     });
