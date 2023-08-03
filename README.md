@@ -3,6 +3,7 @@
 Lectures: 133
 Video: 22.5 total hours
 Instructor: Brad Hussey
+jkmagnussen
 
 Are you ready to supercharge your Web Development Skills and learn how to build beautiful, custom and responsive WordPress Themes & Websites?
 Join Brad Hussey in the completely updated for 2022 version of his popular WordPress Theme Development Udemy Course, (a.k.a. Bootstrap to WordPress).
