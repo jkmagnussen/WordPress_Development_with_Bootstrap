@@ -5,6 +5,8 @@ Video: 22.5 total hours
 Instructor: Brad Hussey
 jkmagnussen
 
+Viewable project resides within the bootstrap2wordpress root folder. which resides within wordpress > wp-content > themes > bootstrap2wordpress.
+
 Are you ready to supercharge your Web Development Skills and learn how to build beautiful, custom and responsive WordPress Themes & Websites?
 Join Brad Hussey in the completely updated for 2022 version of his popular WordPress Theme Development Udemy Course, (a.k.a. Bootstrap to WordPress).
 By the end of the course, Brad Hussey will walk you step-by-step through building and launching beautiful & responsive, complete WordPress website from scratch.
