@@ -1,6 +1,6 @@
 <h1>WordPress Development with Bootstrap: The Complete Course</h1>
 
-Lectures (Quant): 133
+Lectures: 133
 Video: 22.5 total hours
 Instructor: Brad Hussey
 jkmagnussen
