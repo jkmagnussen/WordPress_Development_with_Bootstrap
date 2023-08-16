@@ -26,7 +26,7 @@ In this WordPress Development course for beginners, you will transform from a Bo
 Whether you're a freelance designer, new web developer, employee for a company, code hobbyist, or looking for a new career — this course gives you an immensely valuable skill that will enable you to either:
 Start a Profitable Side Hustle as a WordPress Developer
 So you can save up for a vacation, help pay off your debt, or simply just to have bonus cash laying around.
-Create a Full-Time Income
+Create a Full-Time Income -
 WordPress Developers have plenty of career options. Many web developers make a generous living creating custom WordPress themes and selling them on websites like ThemeForest. Freelance web designers and developers can also make a full-time living building sophisticated WordPress websites for clients.
 Who Should Take This Course?
 Graphic & Web Designers
