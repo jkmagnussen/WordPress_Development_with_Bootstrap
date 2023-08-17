@@ -2,7 +2,7 @@
 
 Lectures: 133
 Video: 22.5 total hours
-Instructor: Brad Husseyy
+Instructor: Brad Hussey
 
 Viewable project resides within the bootstrap2wordpress root folder. which resides within wordpress > wp-content > themes > bootstrap2wordpress
 
