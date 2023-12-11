@@ -90,4 +90,4 @@ People who want to learn how to build custom WordPress themes
 This course is for those who are self-driven and take action! The skills you will learn in this course will allow you to create an income on the side, or build a full-time business creating custom WordPress websites for clients.
 Do you have a basic understanding of HTML, CSS and PHP? This course will supercharge those skills and turn them into incredibly valuable assets.
 This course is for those who want to start a web development business on the side, or full-time as a work-from-home freelancer.
-If you like the idea of creating an income on the side, learning to code custom WordPress websites with a framework like Bootstrap is a surefire way to get yourself some extra freelance works..
+If you like the idea of creating an income on the side, learning to code custom WordPress websites with a framework like Bootstrap is a surefire way to get yourself some extra freelance works.
