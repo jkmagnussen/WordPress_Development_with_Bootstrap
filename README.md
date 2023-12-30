@@ -51,7 +51,7 @@ You get to work with a modern, professional quality design & layout.
 Quality HTML, CSS & JS
 You'll learn how hand-craft a stunning website with valid, semantic and beautiful HTML, CSS & JS
 Easy-to-use CMS
-Allow your clients to easily update their websites by converting your static websites to dynamic websites, using WordPress.
+Allow your clients to easi ly update their websites by converting your static websites to dynamic websites, using WordPress.
 You can dramatically increase your efficiency, and supercharge your web development skills. And by doing so, you'll effectively be able to take on more projects, charge higher rates, even make more money as a freelance WordPress developer.
 _A short note from Brad Hussey, your instructor, on why you should join the course_
 Hey friends, Brad Hussey here!
@@ -90,4 +90,4 @@ People who want to learn how to build custom WordPress themes
 This course is for those who are self-driven and take action! The skills you will learn in this course will allow you to create an income on the side, or build a full-time business creating custom WordPress websites for clients.
 Do you have a basic understanding of HTML, CSS and PHP? This course will supercharge those skills and turn them into incredibly valuable assets.
 This course is for those who want to start a web development business on the side, or full-time as a work-from-home freelancer.
-If you like the idea of creating an income on the side, learning to code custom WordPress websites with a framework like Bootstrap is a surefire way to get yourself some extra freelance works.
+If you like the idea of creating an income on the side, learning to code custom WordPress websites with a framework like Bootstrap is a surefire way to get yourself some extra freelance works..
