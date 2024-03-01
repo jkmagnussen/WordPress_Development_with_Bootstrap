@@ -18,8 +18,7 @@ get_template_part('template-parts/banner', 'title');
 
                 <div class="image-404">
 
-                    <img src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/404.jpg" alt="404"
-                        class="img-fluid">
+                    <img src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/images/404.jpg" alt="404" class="img-fluid">
                 </div>
 
                 <h3><?php esc_html_e('Sorry, this page can\'t be found.', 'bootstrap2wordpress'); ?></h3>
