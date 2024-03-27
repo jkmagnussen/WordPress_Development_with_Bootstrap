@@ -31,7 +31,7 @@ $description = get_bloginfo('description', 'display');
                 ?>
                 <p class="tag-line sub-title"><?php echo get_the_date('M d, Y') ?></p>
                 <?php
-                the_title('<h1 class="page-title">', '</h1>');
+                    the_title('<h1 class="page-title">', '</h1>');
                 } elseif (!is_front_page() && is_home()) {
                     $b2w_blog_title = get_the_title(get_option('page_for_posts', true));
                 ?>
